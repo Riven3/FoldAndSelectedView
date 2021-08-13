@@ -1,0 +1,3 @@
+target 'SelectFoldView' do
+pod 'SnapKit'
+end

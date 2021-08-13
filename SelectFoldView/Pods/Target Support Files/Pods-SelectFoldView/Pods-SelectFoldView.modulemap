@@ -1,0 +1,6 @@
+module Pods_SelectFoldView {
+  umbrella header "Pods-SelectFoldView-umbrella.h"
+
+  export *
+  module * { export * }
+}
